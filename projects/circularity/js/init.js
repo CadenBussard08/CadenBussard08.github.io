@@ -73,6 +73,11 @@ var init = function (window) {
       }
 
       // TODO 6 : YOUR CODE STARTS HERE //////////////////////
+      
+      //
+      if (circle.x < canvas.width) {
+        circle.x =
+      }
 
       // YOUR TODO 6 CODE ENDS HERE //////////////////////////
     };
